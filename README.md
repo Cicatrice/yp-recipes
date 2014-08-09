@@ -1,5 +1,5 @@
 Recipes from my grand-mother
 ============================
 
-* "vacherin": a vanilla ice-cream made with meringues and caramel sauce.
+* [vacherin](vacherin.md) : a vanilla ice-cream made with meringues and caramel sauce.
 
